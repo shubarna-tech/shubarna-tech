@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Cloud, Data Science.
 - 🌱 I’m currently developing coding skills.
 - 💞️ I’m looking to collaborate on any projects.
-- 📫 How to reach me adhikarishubarna@gmail.com
+- 📫 How to reach me shubarnaadhikari4@gmail.com
 
 <!---
 shubarna-tech/shubarna-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
